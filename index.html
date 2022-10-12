@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Average Calculator</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<body class="fundo">
+
+  <div class="infos">
+    <h1 class="texto">Average Calculator</h1>
+    <p class="texto">Your grade point average in all tests is here</p>
+    <input id="mediaDasNotas" type="number" class="inputs" placeholder="Enter pass average: ">
+    <input id="primeiraNota" type="number" class="inputs" placeholder="Enter the first note: ">
+    <input id="segundaNota" type="number" class="inputs" placeholder="Enter the second note: ">
+    <input id="terceiraNota" type="number" class="inputs" placeholder="Enter the third note: ">
+    <input id="QuartaNota" type="number" class="inputs" placeholder="Enter the fourth note: ">
+  </div>
+  <botton id="mudarBotao" class="botao" onclick="calcular()">Calculate</botton>
+
+  <div class="tela">
+    <h2 class="suaNota" id="suaNota">Final grade:</h2>
+    <h2 class="notareal" id="notareal"></h2>
+    <h3 class="passouounao" id="passou"></h3>
+  </div>
+</body>
+<!-- partial -->
+  <script  src="./script.js"></script>
+
+</body>
+</html>

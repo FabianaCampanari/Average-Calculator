@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+}
+
+.fundo {
+  background: rgb(58, 79, 202);
+  background-image: url(https://img.freepik.com/vetores-gratis/borda-abstrata-de-neon-em-um-vetor-de-modelo-de-banner-de-blog-azul-escuro_53876-140475.jpg?w=2000);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin-top: 25px;
+}
+
+.infos {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+.texto {
+  margin: 0;
+}
+
+.inputs {
+  text-align: center;
+  display: block;
+  height: 37px;
+  width: 295px;
+  margin: auto;
+  margin-top: 15px;
+}
+
+.est-botao {
+  margin: auto;
+  width: 50%;
+  margin-top: 40px;
+  margin-left: 44%;
+  margin-bottom: 30px;
+}
+
+.botao {
+  font-weight: 500;
+  font-size: 20px;
+  font-family: monospace;
+  background: #ff1493;
+  text-align: center;
+  padding: 15px 65px;
+  margin: auto;
+  display: table;
+  margin-top: 40px;
+  border-radius: 30px;
+}
+
+.tela {
+  background-color: rgba(255, 255, 255, 0.123);
+  color: white;
+  font-size: 15px;
+  width: 17%;
+  height: 200px;
+  margin: auto;
+  margin-top: 30px;
+  padding: 15px 15px;
+  min-width: 250px;
+}
+
+.suaNota {
+  margin-top: 30px;
+  font-family: sans-serif;
+  display: inline-block;
+}
+
+.notareal {
+  font-family: sans-serif;
+  display: inline-block;
+  margin-left: 5px;
+}
+
+.passouounao {
+  font-family: sans-serif;
+  margin-top: 0px;
+}
