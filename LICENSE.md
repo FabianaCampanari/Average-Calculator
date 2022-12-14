@@ -1,4 +1,4 @@
-⚖️  Fabiana Campanari Copyright  License
+⚖️  -Fabiana Campanari Copyright  License
 
 
 🔅 Copyright (c) 2022 Fabiana Campanari.
