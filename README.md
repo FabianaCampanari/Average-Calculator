@@ -34,7 +34,7 @@
 
 <p align="center"> ✨ if and else conditionals.  </p>
 
-✨ parseFloat 
+<p align="center"> ✨ parseFloat 
 </p>
 __________________________________________________________________________________________
 ⚖️ Fabiana Campanari License
