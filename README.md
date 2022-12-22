@@ -27,7 +27,7 @@
 
 <p align="center"> ✨ console.log </p>
 
-<p align="center"> ✨ toFixed 
+<p align="center"> ✨ toFixed </p>
 
 ✨ main math operations 
 
