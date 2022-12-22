@@ -20,7 +20,6 @@
 
 <p align="center"> 📌 SPECS: </p>
 
-
 <p align="center"> ✨ variables </p>
 
 <p align="center"> ✨ strings </p>
@@ -29,7 +28,7 @@
 
 <p align="center"> ✨ toFixed </p>
 
-✨ main math operations 
+<p align="center"> ✨ main math operations 
 
 ✨ concatenation
 
