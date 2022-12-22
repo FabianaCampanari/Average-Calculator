@@ -30,7 +30,7 @@
 
 <p align="center"> ✨ main math operations </p>
 
-✨ concatenation
+<p align="center"> ✨ concatenation
 
 ✨ if and else conditionals.
 
