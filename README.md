@@ -23,7 +23,7 @@
 
 <p align="center"> ✨ variables </p>
 
-✨ strings 
+<p align="center"> ✨ strings </p>
 
 ✨ console.log 
 
