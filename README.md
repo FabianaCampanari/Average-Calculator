@@ -21,7 +21,7 @@
 <p align="center"> 📌 SPECS: </p>
 
 
-✨ variables
+<p align="center"> ✨ variables
 
 ✨ strings 
 
@@ -36,7 +36,7 @@
 ✨ if and else conditionals.
 
 ✨ parseFloat 
-
+</p>
 __________________________________________________________________________________________
 ⚖️ Fabiana Campanari License
 
