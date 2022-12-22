@@ -46,7 +46,8 @@
 #
 
  <p align="center">
-  < "https://user-images.githubusercontent.com/113218619/209191284-03aa41b1-c448-4f95-885f-a50788ed23f5.gif"
+  < img 
+  "https://user-images.githubusercontent.com/113218619/209191284-03aa41b1-c448-4f95-885f-a50788ed23f5.gif"
 
  
 
