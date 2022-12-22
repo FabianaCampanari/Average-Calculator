@@ -21,7 +21,7 @@
 <p align="center"> 📌 SPECS: </p>
 
 
-<p align="center"> ✨ variables
+<p align="center"> ✨ variables </p>
 
 ✨ strings 
 
