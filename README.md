@@ -25,7 +25,7 @@
 
 <p align="center"> ✨ strings </p>
 
-✨ console.log 
+<p align="center"> ✨ console.log 
 
 ✨ toFixed 
 
