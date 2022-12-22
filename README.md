@@ -45,8 +45,7 @@
 
 #
 
- <p align="center">
-  < img src="https://user-images.githubusercontent.com/113218619/209191284-03aa41b1-c448-4f95-885f-a50788ed23f5.gif"
 
- 
+
+ ![wings](https://user-images.githubusercontent.com/113218619/209194716-1ef3eccf-13fd-4ed2-b462-c8ef3e995c8e.gif)
 
