@@ -28,7 +28,7 @@
 
 <p align="center"> ✨ toFixed </p>
 
-<p align="center"> ✨ main math operations 
+<p align="center"> ✨ main math operations </p>
 
 ✨ concatenation
 
