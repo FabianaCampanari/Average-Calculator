@@ -12,7 +12,7 @@
 </p>
 
 
-___________________________________
+_____________________________
 
 🚀 https://fabianacampanari.github.io/Average-Calculator/
 
