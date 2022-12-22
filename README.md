@@ -1,3 +1,6 @@
+# <p align="center">
+
+
 📊 Creation of a Grade Average calculator to find out if the final grade was sufficient or not for approval.
 
 < made with love & joy /> 🤎 
