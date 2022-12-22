@@ -39,7 +39,7 @@
 
 #
 
-⚖️ Fabiana Campanari License
+<p align="center"> ⚖️ Fabiana Campanari License
 
  Copyright (c) 2022 Fabiana Campanari.
 
