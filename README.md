@@ -37,7 +37,7 @@
 <p align="center"> ✨ parseFloat 
 </p>
 
-#
+
 
 <p align="center"> ⚖︎ This project is licensed under the Fabiana Campanari License. </p>
 
