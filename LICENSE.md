@@ -1,9 +1,12 @@
-BSD 3-Clause License
 
-Copyright (c) 2023, Fanbiana Campanari
+⚖︎ Fabiana Campanari License.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+Copyright (c) 2023, Fabiana  Campanari - All Rights Reseverd
+
+Todos os direitos Resevados (c) 2023 Fabiana Campanari.
+
+
+-  Conditions:
 
 1. Redistributions of source code must retain the above copyright notice, this
    list of conditions and the following disclaimer.
