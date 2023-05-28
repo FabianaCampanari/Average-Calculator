@@ -38,7 +38,7 @@
 
 #
 
-<p align="center"> ⚖︎ This project is licensed under the Fabiana Campanari License. </p>
+<p align="center"> ⚖︎ This project is licensed under the BSD 3-Clause "New" or "Revised" License. </p>
 
  <p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>
 
