@@ -17,7 +17,7 @@
 
 #
 
-<p align="center"> 📌 SPECS: </p>
+ 📌 SPECS: </p>
 
  ✨ variables </p>
 
