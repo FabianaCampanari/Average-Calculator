@@ -19,7 +19,7 @@
 
 <p align="center"> 📌 SPECS: </p>
 
-<p align="center"> ✨ variables </p>
+ ✨ variables </p>
 
 <p align="center"> ✨ strings </p>
 
