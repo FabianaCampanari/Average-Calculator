@@ -19,9 +19,9 @@
 
  📌 SPECS: </p>
 
- ✨ variables </p>
+<p align="center"> ✨ variables </p>
 
- <p align="center"> ✨ strings </p>
+<p align="center"> ✨ strings </p>
 
 <p align="center"> ✨ console.log </p>
 
