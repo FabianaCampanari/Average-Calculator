@@ -21,7 +21,7 @@
 
  ✨ variables </p>
 
-<p align="center"> ✨ strings </p>
+ ✨ strings </p>
 
 <p align="center"> ✨ console.log </p>
 
