@@ -19,21 +19,21 @@
 
 <p align="center"> 📌 SPECS: </p>
 
-<p align="center"> ✨ variables </p>
+✨ variables </p>
 
-<p align="center"> ✨ strings </p>
+✨ strings </p>
 
-<p align="center"> ✨ console.log </p>
+✨ console.log </p>
 
-<p align="center"> ✨ toFixed </p>
+✨ toFixed </p>
 
-<p align="center"> ✨ main math operations </p>
+✨ main math operations </p>
 
-<p align="center"> ✨ concatenation  </p>
+✨ concatenation  </p>
 
-<p align="center"> ✨ if and else conditionals.  </p>
+✨ if and else conditionals.  </p>
 
-<p align="center"> ✨ parseFloat  </p>
+✨ parseFloat  </p>
 
 #
 
