@@ -31,7 +31,7 @@
 
 <p align="center"> ✨ concatenation  </p>
 
-✨ if and else conditionals.  </p>
+<p align="center"> ✨ if and else conditionals.  </p>
 
 ✨ parseFloat  </p>
 
