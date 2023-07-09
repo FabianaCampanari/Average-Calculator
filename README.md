@@ -23,7 +23,7 @@
 
 <p align="center"> ✨ strings </p>
 
-✨ console.log </p>
+<p align="center"> ✨ console.log </p>
 
 ✨ toFixed </p>
 
