@@ -33,7 +33,7 @@
 
 <p align="center"> ✨ if and else conditionals.  </p>
 
-✨ parseFloat  </p>
+<p align="center"> ✨ parseFloat  </p>
 
 #
 
