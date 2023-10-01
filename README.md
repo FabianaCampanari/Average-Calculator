@@ -8,13 +8,11 @@ Creation of a Grade Average Calculator to find out if the final grade was suffic
 
 #### <p align="center"> < made with love & joy /> 💎
 
-
  
 #
 <br>
  <p align="center"> 🚀 https://fabianacampanari.github.io/Average-Calculator/
-
-
+<br>
 
  <p align="center">
   <img src="https://user-images.githubusercontent.com/113218619/231811820-55a8d649-6c87-48fe-952b-696afcea4efe.png" />
