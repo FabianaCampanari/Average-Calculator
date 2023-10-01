@@ -1,6 +1,3 @@
-
-## <p align="center"> 📊 Average Calculator </p>
-
 <br>
 
 # <p align="center"> 📊 Average Calculator </p>
