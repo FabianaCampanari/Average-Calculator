@@ -5,7 +5,7 @@
 <br>
 Creation of a Grade Average Calculator to find out if the final grade was sufficient or not for approval.
 <br><br><br>
-<p align="center"> < made with love & joy /> 💎
+#### <p align="center"> < made with love & joy /> 💎
 
 #
 <br>
