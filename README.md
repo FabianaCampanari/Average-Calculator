@@ -43,7 +43,6 @@ Creation of a Grade Average Calculator to find out if the final grade was suffic
 
 
 ######  <p align="center"> ⚖︎ This project is licensed under the AGPL-3.0 License.</p>
-<br></br>
 ####  <p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>
 
 
