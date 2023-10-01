@@ -3,6 +3,7 @@
 # <p align="center"> 📊 Average Calculator </p>
 
 <br><br>
+
 Creation of a Grade Average Calculator to find out if the final grade was sufficient or not for approval.
 <br><br>
 
