@@ -11,7 +11,7 @@ Creation of a Grade Average Calculator to find out if the final grade was suffic
 <br>
 
  <p align="center"> 🚀 https://fabianacampanari.github.io/Average-Calculator/
-</p>
+
 
 
  <p align="center">
