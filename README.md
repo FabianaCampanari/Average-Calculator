@@ -19,7 +19,7 @@
 
 #
 
-<br>
+<br><br>
 <p align="center"> 📌 SPECS: </p>
 
 <p align="center"> ✨ variables
@@ -37,6 +37,7 @@
 <p align="center"> ✨ if and else conditionals.  </p>
 
 <p align="center"> ✨ parseFloat  </p>
+<br><br>
 
 #
 
