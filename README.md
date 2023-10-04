@@ -38,7 +38,6 @@ Creation of a Grade Average Calculator to find out if the final grade was suffic
 <p align="center"> ✨ if and else conditionals.  </p>
 
 <p align="center"> ✨ parseFloat  </p>
-<br>
 
 #
 
