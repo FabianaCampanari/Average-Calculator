@@ -49,8 +49,7 @@
 
 #
 
-###### <p align="center"> [Copyright 2024 Fabiana Campanari. All Rights Reserved. Code released under the  AGPL-3.0 license.](
-https://github.com/FabianaCampanari/Average-Calculator/blob/8ab45b699b3f5ac63dca0bb1f21a26a67cebbb73/LICENSE)
+###### <p align="center"> [Copyright 2024 Fabiana Campanari. All Rights Reserved. Code released under the  AGPL-3.0 license.]()
  
 
 
