@@ -14,7 +14,7 @@
 [ 🚀 Let’s calculate your final grade here!](https://fabianacampanari.github.io/Average-Calculator/)
 
 
- 🚀 https://fabianacampanari.github.io/Average-Calculator/
+ <p align="center"> 🚀 https://fabianacampanari.github.io/Average-Calculator/
  
 <br><br><br>
 
