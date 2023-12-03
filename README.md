@@ -41,7 +41,7 @@
 
 #
 
-###### <p align="center"> ⚖︎ This project is licensed under the AGPL-3.0 License.</p>
+###### <p align="center"> ⚖︎
 
 
 
