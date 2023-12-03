@@ -11,9 +11,10 @@
 
 <br><br>
 
- ### <p align="center"> [ 🚀 Let’s calculate your final grade! ]( https://fabianacampanari.github.io/Average-Calculator/)
+ ### <p align="center"> [ 🚀 Let’s calculate your final grade here! ]( https://fabianacampanari.github.io/Average-Calculator/)
  
-<br><br><br>
+<br><br>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/113218619/231811820-55a8d649-6c87-48fe-952b-696afcea4efe.png" /><br>
