@@ -44,6 +44,9 @@
 ###### <p align="center"> ⚖︎ :balance_scale:
 
 
+https://github.com/FabianaCampanari/Average-Calculator/blob/8ab45b699b3f5ac63dca0bb1f21a26a67cebbb73/LICENSE
+
+
 
 
  
