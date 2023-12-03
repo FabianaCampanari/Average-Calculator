@@ -41,7 +41,7 @@
 
 #
 
-###### <p align="center"> ⚖︎
+###### <p align="center"> ⚖︎ :balance_scale:
 
 
 
