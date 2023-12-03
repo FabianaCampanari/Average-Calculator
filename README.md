@@ -12,9 +12,6 @@
 <br><br>
 
  ### <p align="center"> [ 🚀 Let’s calculate your final grade! ]( https://fabianacampanari.github.io/Average-Calculator/)
-
- <p align="center"> [🚀 Let’s calculate your final grade here!](https://fabianacampanari.github.io/Average-Calculator/)
-
  
 <br><br><br>
 
