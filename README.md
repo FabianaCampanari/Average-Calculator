@@ -4,7 +4,7 @@
 <br><br>
 
 ### <p align="center"> Creation of a Grade Average Calculator to find out if the final grade was sufficient or not for approval.
-<br><br>
+<br>
 
 #### <p align="center"> ***< with vibe, frequency & joy />*** 🪬</p> 
  
