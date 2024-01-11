@@ -1,0 +1,12 @@
+
+cff-version: 1.2.0
+title: NerdFlix Repository
+message: If you really want to cite this repository, here's how you should cite it.
+type: software
+authors:
+  - given-names: Fabiana
+    family-names: Campanari
+repository-code: https://fabianacampanari.github.io/NerdFlix/
+license: GPL-3.0 license
+
+
