@@ -6,7 +6,7 @@ type: software
 authors:
   - given-names: Fabiana
     family-names: Campanari
-repository-code: https://fabianacampanari.github.io/NerdFlix/
+repository-code: https://fabianacampanari.github.io/Average-Calculator/
 license: GPL-3.0 license
 
 
